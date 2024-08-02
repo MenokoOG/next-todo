@@ -17,7 +17,7 @@ function Header() {
             fillRule="nonzero"
           />
         </svg>
-        <h1>TODO</h1>
+        <h1>TODO in Next.js</h1>
       </header>
     );
   }
